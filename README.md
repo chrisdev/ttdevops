@@ -2,7 +2,8 @@ Trinidad and Tobago DevOps Day
 ==============================
 
 ##What
-The aim is to meetup to hack on the following:
+
+The aim is to hack on the following:
   * [DigitalOcean API](https://developers.digitalocean.com)
   * Migrating from once cloud servive to another
   * Setting up and using [Ansible](http://www.ansibleworks.com) 
