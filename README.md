@@ -12,10 +12,14 @@ The aim is to hack on the following:
   
 
 ##Where
-ChrisDev HQ - A3 St. Benedicts Gardens Tunapuns
+ChrisDev HQ - A3 St. Benedicts Gardens Tunapuna
 
 ##When
 17 January 2014
+
+##RSVP
+
+[RSVP here](https://github.com/chrisdev/ttdevops/issues/3)
 
 
 
