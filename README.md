@@ -5,7 +5,7 @@ Trinidad and Tobago DevOps Day
 
 The aim is to hack on the following:
   * [DigitalOcean API](https://developers.digitalocean.com)
-  * Migrating from once cloud servive to another
+  * Migration
   * Setting up and using [Ansible](http://www.ansibleworks.com) 
   * [Fabric](http://docs.fabfile.org/en/1.8/)
   * Amazon services like S3, SMS etc.d
