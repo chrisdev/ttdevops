@@ -15,7 +15,7 @@ The aim is to hack on the following:
 ChrisDev HQ - A3 St. Benedicts Gardens Tunapuna
 
 ##When
-17 January 2014
+Friday, 14 March 2014(??)
 
 ##RSVP
 
